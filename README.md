@@ -14,9 +14,9 @@ the run the .ipynb file with run all
 if the pip install doesn't work run in your env
 
 ```sh
-%pip install torch
-%pip install pygame
-%pip install numpy
+pip install torch
+pip install pygame
+pip install numpy
 ```
 
 collaboration with
