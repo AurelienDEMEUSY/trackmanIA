@@ -18,3 +18,8 @@ if the pip install doesn't work run in your env
 %pip install pygame
 %pip install numpy
 ```
+
+collaboration with
+
+Hugo mathurin
+Charly rousselet
